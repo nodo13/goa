@@ -1,0 +1,6 @@
+saxeli = input(" a gqvia? ")
+gvari =  input("ra gvari xar? ")
+age = input("ramdeni wlis xar? ")
+print("sheni saxeli aris " + saxeli)
+print("sheni gvae]ri aris " + gvari)
+print("sheni asaki aris" + age)
